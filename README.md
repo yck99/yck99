@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+try to learn cse and web
 <!--
 **yck99/yck99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
